@@ -1,4 +1,5 @@
 # Lantern rpm package for fedora.
+Build from lantern repository: https://github.com/getlantern/lantern
 
 ## Install
 <code>
